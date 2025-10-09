@@ -1,4 +1,3 @@
-
 # 🚢 Titanic Survival Prediction
 
 An end-to-end machine learning project that predicts passenger survival on the Titanic using Python and scikit-learn.
